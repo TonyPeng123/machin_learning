@@ -1,4 +1,6 @@
-# machin_learning
-## workflow
 
-![image](https://github.com/TonyPeng123/machin_learning/tree/Homework/img/workflow.png)
+### HW3 - workflow
+
+
+
+![Image text](https://github.com/TonyPeng123/machin_learning/blob/Homework/img/workflow.png)
